@@ -1,0 +1,22 @@
+{
+  "name": "test-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Common-Value/test-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Common-Value/test-playground/issues"
+  },
+  "homepage": "https://github.com/Common-Value/test-playground#readme",
+  "dependencies": {
+    "query-registry": "^2.6.0"
+  }
+}
